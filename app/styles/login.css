@@ -1,0 +1,15 @@
+.col2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+
+.fgroup {
+  display: grid;
+  gap: 4px;
+}
+
+.fgroup input,
+button[type="submit"] {
+  padding: 8px;
+}
